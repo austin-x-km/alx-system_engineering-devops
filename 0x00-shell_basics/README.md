@@ -1,1 +1,1 @@
-Display the contents list of the current directory in long format
+a script that creates a directory named my_first_directory in the /tmp/ directory.
